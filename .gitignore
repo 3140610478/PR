@@ -1,0 +1,12 @@
+# documents
+*.txt
+*.docx
+*.pdf
+!/Datasets/**/*.txt
+# images
+*.html
+*.png
+# compressed files for datasets
+*.zip
+# __pycache__
+/**/__pycache__/
